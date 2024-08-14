@@ -228,7 +228,8 @@ class _HomepageState extends State<Homepage> {
                       alignment: Alignment.bottomRight,
                       child: FloatingActionButton(
                         onPressed: () {},
-                        child: const Icon(Icons.add),
+                        backgroundColor: Colors.teal.shade900,
+                        child: const Icon(Icons.add,color: Colors.white,),
                       ),
                     ),
                   )
