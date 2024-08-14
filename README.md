@@ -27,6 +27,12 @@
     <img src="https://github.com/user-attachments/assets/6989dda3-7cd3-47aa-8843-a1402623e802" width="250px" />
 
 
+   ## Screen Recoding 
+    
+https://github.com/user-attachments/assets/5f7b38c0-5fc9-42f3-844d-b8c5fbb04c18
+
+
+
 ## Contact
    Prince Buha [![LinkedIn Follow][(https://www.linkedin.com/in/prince-buha-9674a22b2/)]
 
