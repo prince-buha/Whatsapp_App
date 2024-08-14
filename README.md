@@ -26,3 +26,7 @@
     <img src="https://github.com/user-attachments/assets/e1ae86bc-14f6-4ac5-a177-8df0eb301020" width="250px" />
     <img src="https://github.com/user-attachments/assets/6989dda3-7cd3-47aa-8843-a1402623e802" width="250px" />
 
+
+## Contact
+   Prince Buha [![LinkedIn Follow][(https://www.linkedin.com/in/prince-buha-9674a22b2/)]
+
